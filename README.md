@@ -31,8 +31,6 @@ Thank you for your contribution!
 
 ## Contributors
 - [Bharath](https://github.com/Bharath-tars)
-- Pooja Chinta
-- Yenuganti Sai Kumar
 
 ## Credits
 This repository was created with ❤️ by Sudarsanam Bharath.
