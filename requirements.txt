@@ -1,0 +1,10 @@
+Flask
+gunicorn==20.1.0
+requests==2.26.0
+os
+email
+datetime
+numpy
+opencv-python
+tensorflow
+matplotlib
