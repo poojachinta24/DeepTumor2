@@ -2,6 +2,6 @@ Flask
 Gunicorn==20.1.0
 Requests==2.31.0
 Numpy==1.26.4
-opencv-python==4.10.0
+opencv-python==4.10.0.84
 TensorFlow==2.16.1
 Matplotlib==3.9.2
