@@ -31,6 +31,7 @@ Thank you for your contribution!
 
 ## Contributors
 - [Bharath](https://github.com/Bharath-tars)
+- [Pooja Chinta](https://github.com/poojachinta24)
 
 ## Credits
-This repository was created with ❤️ by Sudarsanam Bharath.
+This repository was created with ❤️ by Sudarsanam Bharath and Pooja Chinta.
